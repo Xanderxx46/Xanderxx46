@@ -1,4 +1,4 @@
-Sup, im Xander. I dont know how to code and prob wont do anything on Github but download stuff.
+Sup, im Xander. I dont know how to code but im slowly learning.
 
 <!---
 Xanderxx69/Xanderxx69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
