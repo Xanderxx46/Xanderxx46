@@ -1,6 +1,6 @@
 # Hey! I'm Xander!
 
-I can kind of code, at least a little bit. I know mostly javascript but i also know some typescript. I mainly make Discord bots. Fun fact, the first bot I made by myself is one for a Discord bot making competition. It is named [That One Friend](https://github.com/Xanderxx46/That-One-Friend). 
+I can kind of code, at least a little bit. I know mostly javascript but i also know some typescript. I mainly make Discord bots. Fun fact, the first bot I made by myself is one for a Discord bot making competition. It is named [That One Friend](https://github.com/Xanderxx46/That-One-Friend). I have also made [Xan Utils](https://github.com/Xanderxx46/Xan-Utils) for fun!
 
 ### Stuff I Know
 
