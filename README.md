@@ -10,6 +10,9 @@ I can kind of code, at least a little bit. I know mostly javascript but i also k
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 </p>
 
+![Top Langs](https://xander-github-stats.vercel.app/api/top-langs/?username=Xanderxx46&layout=compact)
+
+
 ### Contacts
 
 <p align="left">                
